@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercy and truth, righteovsnes and peace be multiplied to our nation the meeting of great friends at the birth of truth, to reconcile God and man : mercy makes the motion : truth the disputation : righteousnesse the argument : and peace the conclusion.</title>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26777</idno><idno type="EEBO-CITATION">12167640</idno>
+  <idno type="VID">197077</idno>
+  <idno type="EEBO-PROQUEST">2240958746</idno>
+  
+            <idno type="STC">Wing M1780</idno>
+            <idno type="OCLC">12167640</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197077)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E91, no 11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercy and truth, righteovsnes and peace be multiplied to our nation the meeting of great friends at the birth of truth, to reconcile God and man : mercy makes the motion : truth the disputation : righteousnesse the argument : and peace the conclusion.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:197077:1"/>
+            <pb facs="tcp:197077:1"/>
+            <p>
+               <hi>
+                  <seg rend="decorInit">O</seg>Bviaverunt,</hi> They that meet may seem to be asunder, and although they contend at the first, they kisse before they depart. <hi>Meeting,</hi> if it be not hostile, be it never so meane, is a mutuall societie, <hi>Prov.</hi> 22, 2. <hi>Isa.</hi> 34. 14. the wildest creatures want not their loving meetings. <hi>Truth</hi> meets <hi>Mercy</hi> in <hi>Christ,</hi> and in Him all Promises are fullfilled, <hi>Luke</hi> 1. 68, 69 <hi>Acts</hi> 13. 32. 33. It is <hi>mercy</hi> that returned the <hi>captivity of Iacob,</hi> and <hi>Babylon</hi> was the type of our <hi>bondage,</hi> and <hi>Christ</hi> our <hi>deliverer. Mercy</hi> would have man to be saved, <hi>Truth</hi> must dispute the way; and finding man in errour, cannot helpe him without a <hi>birth,</hi> which must budde out of the Earth, as Flowers doe that spring of themselves without mans sowing or planting; and so <hi>Christ</hi> and the Christian are born: <hi>Christ</hi> of mans seed without him, out of the earth or wombe of a Virgin, and a Maide and a Mother are the great wonder of the Word, which the world must beleeve, or else no <hi>truth</hi> will meet <hi>mercy;</hi> and the Apostle tells us so much, <hi>Gal.</hi> 6. 16. that the first and the last meet in <hi>Christ,</hi> as the meanes, and with him buddes forth the birth of the new crea<g ref="char:EOLhyphen"/>ture not from the earth, but from heaven, <hi>Gods</hi> righteousnesse having looked down to justifie him, and the Holy Spirit to sanctifie him. Of the glory of <hi>God</hi> all men are desti<g ref="char:EOLhyphen"/>tute by sinne. <hi>Rom.</hi> 3. 23. and he dwells with them in the communication of it in his Son, <hi>Rev.</hi> 21. 3. 11. <hi>Isa</hi> 60. 1. and changeth them into the image of it from <hi>glory to glory,</hi> 2 <hi>Cor.</hi> 3. 18. And indeed <hi>Christ</hi> is this glory when he dwelt in our Land, and was made <hi>flesh, and we saw the glory therof, as the on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly begotten of the Father, full of grace and truth, Ioh.</hi> 1. 14. When <hi>God</hi> shewed <hi>Mose<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> his glory, he put him into the clift of this Rock, and covered him with the hand of his Mercy that he might not die at the sight of his face, and that his goodnesse passing by, might be seen, and he live by the same hand, discovering the way to know God, <hi>Exod</hi> 33. 13. 23.</p>
+            <p>For application, <hi>Obviaverunt,</hi> as many things meet in the Kings Oath at his Coronation, <hi>mercy</hi> and <hi>truth, justice</hi> and <hi>Peace</hi> are the Sacrament He takes, and to teach Him perjury when they have most need to <hi>meet,</hi> is to take glory from our Land, and lay us wast in the miserable desolations of Gods goodnes, the Lands increase, the execution of <hi>justice</hi> and the footsteps of former times. We desire not to accuse but to answer acusations against the <hi>ob<g ref="char:EOLhyphen"/>viaverunt</hi> of our dayes. We say the conjunction of the great lights in heaven the enterview of great States on Earth ever bodes some great matter. Much is made of a conjunction of celestiall bodies this ensuing yeare, and we should not need to feare the Starres, if our 3. Estates, were rightly established in our Parliament, according to the Office and Oath of Him that hath called them to such a <hi>meeting.</hi> I am sure the 4. Attributes I have named, are as great States as any in the Court of heaven, and by a sacred Oath they meet upon Earth; and what can His Majesty do more, then call this <hi>meeting</hi> continue it, and see that <hi>mercy</hi> and <hi>truth</hi> may <hi>meet,</hi> not in pitched a Field but with <hi>Iustitia &amp; pax osculatae su<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>?</hi> They should not runne one at another as Enemies, but kisse as loving Friends. It were no wonder for <hi>mercy</hi> and <hi>peace</hi> to meet, our miseries make way for both. <hi>Peace</hi> cryes out of a Civill Warre, and <hi>mercy</hi> of Nationall Cruelties and the poore People know nothing of <hi>truth</hi> and <hi>justice,</hi> and the encounters made against them. The conclusion of <hi>peace</hi> would be as easie as the motion of <hi>mercy,</hi> if <hi>truth</hi> and <hi>righteousnesse</hi> were not opposite. <hi>Righteousnesse</hi>
+               <pb facs="tcp:197077:2"/> beares the Sword not in vain, and the truth will be severe against errour; and we must <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> expect <hi>mercy</hi> and <hi>peace</hi> without them: and our miserie is, that the King, Lords and Com<g ref="char:EOLhyphen"/>mons have met without an <hi>Osculati sunt;</hi> and why is that true <hi>praevaricati sunt?</hi> If they had not written we should never have known the secrets of State.</p>
+            <p>It is one of the greatest treacheries of State to divulge the secrets of either House with<g ref="char:EOLhyphen"/>out common consent. What hath caused so much <hi>heart-burning</hi> as the revelation of mat<g ref="char:EOLhyphen"/>ters in delibera<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, before any determination? His Majestie may conceive the wrong done to His Councell, that He hath understood the meaning of it in the first motion, re<g ref="char:EOLhyphen"/>ported as <hi>David</hi> saies of <hi>Doeg,</hi> 1 <hi>Sam.</hi> 22. 22. to doe mischief. If His Majesty had never <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with such men, but all as one man had declared their mind to the King, there would never have bin any division; nor could it have bin known in Votes who passed the Bill, and who were against it. We know all or the most make a generall Vote, and so His Majestie ought to receive it, and not so much as to know who were against it. His Ma<g ref="char:EOLhyphen"/>jestie receives a Declaration at <hi>New-market,</hi> and knowes to one man in the Lords House and to a few in the House of Commons, who were for it and who against it, and con<g ref="char:EOLhyphen"/>cludes the Declaration was made against Him, because so many were for Him in both Houses, and the lawfull Vote against him. Who shall be able to speak in either House, if such divisions be made? Is it not upon good reason when the King speaks in either House, that no one Lord nor Commoner answer Him till all have consented; and shall any tell the King what the Houses meane, before he heare it from them all? I am de<g ref="char:EOLhyphen"/>ceived, if this have not deeply wounded many in both Houses, as <hi>Doeg</hi> did <hi>Abimelech,</hi> to his destruction, with above 80, <hi>persons wearing a linnen Ephod.</hi> Members are nominated for Traitors, and may not know their Accusers, and the Lords and Commons judge it an injury to have them accused, and not know by whom. <hi>Ipsa ratio dictat,</hi> common reason doth teach, that no accuser should be any mans Judge; and Kings call not for offenders to punish them, but in a legall way, and Counsellers to be called for (by them that are bound to receive just information) upon treacherie, is intolerable injury. Many things are penned and Printed in papers under a Royall name, that are in this kind most un<g ref="char:EOLhyphen"/>righteous, and have caused first division in the Parliament, and then the desertion of that Societie.</p>
+            <p>I have read many Books of Remonstrances and Declarations from the Lords and Commons in both Houses, by no private pens, but publique consent, and confesse my selfe convinced of their most just proceedings, and constant resolutions: but in the other fearefull contradictions, shamefull reproaches, and most uncharitable constructions of all things. To give some instances. Rebellion is laid upon the instruments of the Parli<g ref="char:EOLhyphen"/>ament, and the Parliament freed, the actors judged, and the authors justified. The Par<g ref="char:EOLhyphen"/>liament is deserted and accused of Faction, as if Faction were not in the desertours, but the deserted; as if the great Councell of the Kingdome were to beare the disgrace of Of<g ref="char:EOLhyphen"/>fenders. It is a Councell called by the King, continued by an Act of all the Members, and yet by departure of persons may be deprived of power<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s if it were a Court in being and might administer no Justice. It's called to consider of Questions <hi>super dubiis,</hi> upon doubts in Laws; and <hi>de Queremoniis super injuriis,</hi> and of complaints of injuries, and yet must suffer doubts not to be resolved, and injuries (as the Apostle speakes) not to be revenged, <hi>Rom.</hi> 13. 4. Besides these, imminent dangers must not be provided for, but neglected by desertion. The twentyeth part of mens estates to be taken from them to save the Kingdome from actuall invasion, when nothing is to be spared that may be a speedy remedie of all
+<pb facs="tcp:197077:2"/> mens Rights. Is it against Law to save the whole City from fire io plucke down some mens houses? to drown mens Lands to prevent a greater danger? to build Bulwarks up<g ref="char:EOLhyphen"/>on any mans ground to save the whole? either the King must doe it, or the Parliament▪ for it was never denyed Him in the not being of a Parliament, in case of necessitie to use all meanes of safety for his people, by an arbitrary Government: but in time of Parlia<g ref="char:EOLhyphen"/>ment that power is committed to it, and no man may refuse to doe that for his safety that all men are bound to doe, and wherein the Parliament, besides the paines are deepest in their owne persons and purses.</p>
+            <p>The Kings of <hi>England</hi> have no meere but mixt Empire, that is a <hi>Royall</hi> power mixt with one that is <hi>Politique,</hi> and therfore as a King he may not doe what he will, but what is Law; and in time of Parliament, he may not proceed in any arbitrary way without It: and as He hath no righteous judgement out of all inferiour Courts, so when a Parliament is called and continued, He may not desert it, to doe any thing out of his own judgement: and whatsoever he doth is extra-judiciall, arbitrary, and obligatory to no body. His <hi>Re<g ref="char:EOLhyphen"/>gall power</hi> contrary to the which is <hi>Politique,</hi> is alwaies unrighteous, and to be ruled by any is Rebellion in them, and to be resisted by all Loyall Subjects, without all feare of dam<g ref="char:EOLhyphen"/>nation, whatsoever Divines may say to the contrary: for they doe but crosse the Apostle, who enjoynes not obedience to <hi>persons</hi> but <hi>powers;</hi> and Royall power in <hi>Peter</hi> is usurped, being applyed to Emperours (such as <hi>Nero)</hi> who ruled not by Lawes, but their own wills, but such are not the Kings of <hi>England,</hi> nor of <hi>Israel,</hi> further then they made themselves slaves, 1. <hi>Sam.</hi> 8. refusing <hi>Gods</hi> Government for Tyranny, for he provided, <hi>Deut.</hi> 17. that the <hi>Politique power</hi> should goe before the <hi>Regall,</hi> and make it <hi>righteous,</hi> which is called not the judgement of the Kings, but of the Kingdome, 1 <hi>Sam.</hi> 10. 25.</p>
+            <p>
+               <hi>Mercy</hi> should move the King to give <hi>Truth</hi> a meeting, and not desert it, to see his Sub<g ref="char:EOLhyphen"/>jects in miserie and errour. <hi>Truth</hi> would teach the whole Kingdome that they are in an error that defend the Regall power against the Righteous power in Parliament. They are abused by Divines in the <hi>mixt Monarchie,</hi> as if it were absolute, and had the power of Imperiall and Civill Laws, when ours are common by custome, chosen by the people, and Statutes of their election in Parliament, which no Royall power can contradict. <hi>Mercy</hi> and <hi>Peace</hi> as <hi>bed-fellowes</hi> sleep together, but not securely without <hi>Truth</hi> and <hi>Iustice.</hi> They are <hi>Collectaneae,</hi> as <hi>Bernard</hi> speakes, and sucke one milke, one brest, but the nourish<g ref="char:EOLhyphen"/>ment may be poysed by cases of Consciences alleadged without <hi>Truth</hi> and <hi>Iustice:</hi> as to teach men to follow personall commands against Politicall, the deserting of Parliaments, against well deserving Members, pressing Precepts to Emperours, to bring men into errors to Kings, as if all were to be obeyed alike, when some are to be obeyed above their Lawes, because their will makes them, when others are to be obeyed according to their Laws, to the which themselvs are Subjects, <hi>Vbi enim miseriocordia esset. si cum misero non esset?</hi> where should mercy be, if with misery she should not be? such is the condition of our Kingdome, and such should our great meeting be.</p>
+            <p>The meeting of great friends, was our second Note, and St. <hi>Aug. in Psa.</hi> upon the <hi>ver.</hi> meets with carnall men, <hi>tu forte unam habere vis, et alteram non vis,</hi> many would meet with mercy, that mind not the truth, would lay hold of the one, and let goe the other: <hi>miseri<g ref="char:EOLhyphen"/>cors et verax,</hi> God is not more mercifull then true, nor mercifull at all to them that love not his truth. He is abundant in goodnesse and truth, reserving mercy for thousands and yet will not cleere the guilty of his willfull errors: peace is in every mans Petition, and rather then misse it, they will spare righteousnesse: <hi>fac justitiam et habebi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pacem,</hi> doe well
+<pb facs="tcp:197077:3"/> and fare well, <hi>depart from evill and doe good, seeke peace and pursue it; si amicam pacis <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> veris, non amabit te pax,</hi> if thou love not the friend of peace, peace will not love thee: I can<g ref="char:EOLhyphen"/>not but collate this <hi>Quaternion</hi> in the Psalme with our Parliament, mercy makes <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> truth for a compamon, truth to justice, and Justice to peace. <hi>Servabis pacem,</hi> is the first part of the oath, the last part of my text. <hi>Factes fieri justitiam in misericordia et veritate,</hi> is the second part, and such a <hi>Quaternion</hi> is all we can desire in the office and oath of a <hi>King;</hi> and more then Kings promise that are at liberty, and few performe that are borne to their Crownes, and yet they are best when they doe it. <hi>Elegerit</hi> would never have need so ma<g ref="char:EOLhyphen"/>ny Criticismes if election had been qualified with <hi>just</hi> and <hi>reasonable;</hi> who would have limited it to laws made, if the making of new ones had urged no more? and more is not contained in the peoples election, and to sticke to the old when the new are so good, is meerely to maintaine <hi>Monarchy</hi> to be bound to no laws at all for that power that is Roy<g ref="char:EOLhyphen"/>all to make what lawes it will, is at liberty to breake as many as it list. Our misery is, that our friendly meeting of <hi>King, Lords</hi> and <hi>Commons</hi> is hostile, and who shall be able to judge of the quarrell, if the Parliament be shut out? The members that remaine have the best in the dispute, and if we find three Estates, wee shall have the powers to judge, the persons that may be judged. The King cals the councell, and cannot recall it, and who can deny the power to be, where it cannot be recalled? The people send the Commons, and can they be excused that are departed? Or can hee call them from the Parliament that hath called them unto it, <hi>cessante quacunque excusatione,</hi> &amp;c. To be driven away is but a dry excuse, and mercy to themselves, will not excuse justice to others, nor in truth free them from the just censure thereof. Wee have either the friendly meeting in Parlia<g ref="char:EOLhyphen"/>ment, or all the attributes in my text are lost, no mercy without this meeting, no truth to discover errors. righteousnesse will not raigne, or Peace bee procured to kisse without deceit.</p>
+            <p>The birth of truth should end all controversies, and the originall of it is to be noted for the place, every thing hath it's appropriate being from the birth, and earth buds forth truth <hi>naturally,</hi> as in the Creation, <hi>Ge.</hi> 1. 11. <hi>Dixit et fuit,</hi> truth pronounceth as the thing is, and the thing is as God pronounceth it to be, and so many expound the words, <hi>faithfulnes springeth;</hi> that is, the Land bringeth forth faithfull increase answerable to Gods blessing upon it. The Land is a figure of mens minds, <hi>Heb.</hi> 6. 6, 7, 8. and <hi>morasly</hi> is taken for the Councells of men, and so every man conceives truth as he is able, and many minds in a friendly meeting bud forth, and bolt out the truth better then divided persons, and wee are bound to the Parliament for truth above all other councells and as Courts the judg<g ref="char:EOLhyphen"/>ment of truth can be received from no other, as the last resolution. <hi>David</hi> corrected one Councell by another, 1 <hi>Cbron.</hi> 13 2. &amp; 15. 2, 3. Hee gave the Councell that disco<g ref="char:EOLhyphen"/>vered the error, but would act nothing without a generall Councell and for my part I shall never expect a friendly meeting till the Parliament budde for that truth that may be accompanied with mercy, draw Justice from Heaven with Peace to bee present at this meeting. <hi>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>naturally</hi> truth is borne of a Uirgin, <hi>Iob.</hi> 1. 14. <hi>the word was made flesh,</hi> and tabernacled in us, and the consequent is <hi>fullnesse of grace and truth,</hi> and wee were happy this birth would bring some fruit to us Christians, not to shed that bloud, for which our Saviour shed his, that we might not perish; and perish wee will to defend Papists in this waire, which is their last, and ends the testimony of the two witnesses, <hi>Rev.</hi> 11. 7. Who i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Doctrine, Death, Resurrection</hi> and <hi>Assension</hi> resemble their Saviour. Hee for the space of three yeares and an halfe taught most heavenly Doctrine, died to seale the truth of it tri<g ref="char:EOLhyphen"/>umphed
+<pb facs="tcp:197077:3"/> over death by a glorious resurrection, and by his ascension led captivity captive so conceive of this mystery of the two witnesses, they prophecy as many dayes, as the moneths of the Beast containes, and when they shall finish them, the Beast shall <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hardest, and the witnesses shall be helped by the dissension of all Nations from the grave; and whilst they burie one another, shall rise, ascend and <hi>Rome</hi> salf, and therefore leo not the godly feare the present miseries, not the arming of Papists, for by them the beast b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth, and the God of truth reveale to all his righteous judgments and speed that peace to, his Churches that is promised to them and those that shall looke out <hi>fresh as the morning faire as the Moone, cleare as the Same and terrible as an drmy with banners,</hi> Can. 6. 10.</p>
+            <p>The end of the birth of truth is the reconciliation of God and man. <hi>Ortus veritatis,</hi> brings with it <hi>occursus misericordiae,</hi> and <hi>prospecius justitiae osculum pacis.</hi> Every one gives a blessing in the close. Mercy meets at the birth, and brings glory to God, and free grace to Men, Truth of promise, as well as of threats enters the Stage, and stands out for mercy to bee made good in promises, which are all performed at the birth of it upon earth: Then fol<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>owes the gracious aspect of justice, which breakes open a doore in Heaven, and opens <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t to all believers, with pardon of sinne, and power to subdue it, and peace of conscience, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd courage for it, make a Christian feare no dangers to appeare in the behalf of truth▪ <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd my heart gives me that all that fight against the <hi>Parliament</hi> raise a wicked warre, and, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>romise protection without mercy, for it comforts not without truth, and to fight for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rrors may (as <hi>Daniel</hi> saies) <hi>make men obstinate to understand nothing, Dan.</hi> 12. 10. and want of true wisedome will leave every man in distresse, <hi>and they that delight in unrighteousnesse <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>orsake their owne peace,</hi> and miserable is that fallacy that seeds many with vaine perswasi<g ref="char:EOLhyphen"/>on they are for the King, when they are most against him, not knowing they may rebell <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gainst his authority, when they obey his personall commands, and either his person may <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e absent from his power, or he hath one power to bee sollowed in Parliament, and a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>other out of it, and so no man shall know what to obey, and whether he shall be dam<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed to obey him in his Court, or in his Campe against it, and if <hi>Caesar,</hi> will fight against <hi>Caesar,</hi> who shall be <hi>Caesars</hi> subject? It's most true all Appeales are from <hi>Caesar</hi> to <hi>Caesar;</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd <hi>Caesar</hi> alone may reverse the judgement of <hi>Caesar:</hi> but it must be in a right order, as <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rom <hi>Caesar</hi> in one Court to another, and when we come to the highest, there to rest: and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>et <hi>Caesar</hi> may repeale the judgement of one <hi>Parliament</hi> by another: But his proceeding out of his Courts is too <hi>Caesar-like,</hi> &amp; will stand good neither in true Divinity, nor honest <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>umanity.</p>
+            <p>Mercy is the first in every good motion for man, the <hi>Psalme</hi> is full of the remembran<g ref="char:EOLhyphen"/>ces of it, <hi>Lord thou hast bin favourable unto thy Land; thou hast brought back the captivity of Iacob. Thou hast forgiven the iniquity of thy people, thou hast covered all their sin, &amp;c.</hi> After remembran<g ref="char:EOLhyphen"/>ces follow <hi>Prrayres</hi> of conversion, contrition, expostulations with him whose anger cannot be endlesse; he will revive and rejoyce the <hi>bones he hath broken,</hi> mercy must bee shewed to mourners and salvation granted to the distressed: Prayers are attended with patience to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eare what God will say: Patience wants not experience of peace, and hope holds the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eart from fainting. And Faith makes salvation at hand to them that feare him, and all <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>his that glory may dwell in our Land.</hi> Such is the power of mercy to make way for truth, which is able to dispute with all errors, and justice gives the argument of each mans <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ight, and when all are satisfied therewith the conclusion will ever be peaceable. Such would be the proceedings of Parliament, where there must needs bee the greatest com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>assions, as having the common cause in hand, which concernes as much themselves
+<pb facs="tcp:197077:4"/> as any others, and it were unnaturall for any man to wrong himselfe, and as in a body<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>one member suffer, all the members suffer with it.</hi> So in the estate, the members that truely re<g ref="char:EOLhyphen"/>main members feele most of the common calamities and move most for their cure what care they have of the Kingdome that are departed from the Parliament, is plaine by their selfe-love, for they remaine not members of the body they belong unto, but as persons part from it, every one seeking his owne things and not the things of another. As for truth to dispute all errors, it is the most faithfull Councell in the Kingdome, and for jus<g ref="char:EOLhyphen"/>tice the fittest Court to give every man his right, and to expect peace without it, is nei<g ref="char:EOLhyphen"/>ther probable nor possible. That the Parliament should seeke for peace to the King is as necessary as to Petition for any good law, and warre is by all meanes to be avoyded, and herein the Parliament hath vsed all patience &amp; does passe by infinite injuries. Notan ac<g ref="char:EOLhyphen"/>cusation but forced upon false grounds. Treason is coyned cunningly by distinguishing persons from the <hi>Parliament,</hi> &amp; the <hi>Parliament</hi> from the powers that make it. His Majestie i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> taught to condemn persons for Traytors &amp; the <hi>Parliament</hi> is aimed at in them, for defend<g ref="char:EOLhyphen"/>ing them, which is just, as far as they do the <hi>work</hi> appointed by such a <hi>councell</hi> &amp; to deceive the people they part the King from being in it by his power, because his person is absent▪ and so he may be from any Court, and yet remaine in it for his judgement, and I know nothing necessary for a personall Act, but his Vote to make a law perfect and permanent as for the declaring of law they want not the power of a Court, &amp; in imminent dangers, to ordaine for the present what should be done in the personall absence of the King.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
